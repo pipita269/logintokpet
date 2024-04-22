@@ -1,0 +1,53 @@
+img{
+  width: 300px;
+  margin-left: 30px;
+  
+}
+h1{
+ font-family: "poppins"; 
+ font-weight: 600;
+ margin-left: 20px;
+ font-size: 30px;
+}
+.jam{
+  width: 260px;
+  height: 40px;
+  margin-bottom: 15px;
+  margin-left: 20px;
+  border-radius: 10px;
+  padding: 7px;
+}
+.jam::placeholder{
+  font-size: 15px;
+  margin-left: 40px;
+  font-family: "poppins";
+  
+}
+.lampu{
+  width: 320px;
+  height: 50px;
+  background-color: #2dba14;
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  font-family: "poppins";
+  border-radius: 10px;
+  margin-left: 10px;
+  border-color: #2dba14;
+  margin-bottom: 14px;
+  box-shadow: 3px 3px 5px gray;
+}
+.hordeng{
+width: 320px;
+  height: 50px;
+  background-color: #506bba;
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  font-family: "poppins";
+  border-radius: 10px;
+  margin-left: 10px;
+  border-color: #506bba;
+  margin-bottom: 14px;
+  box-shadow: 3px 3px 5px gray;
+}

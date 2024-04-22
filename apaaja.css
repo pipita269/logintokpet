@@ -1,0 +1,64 @@
+img{
+  width: 300px;
+  margin-left: 30px}
+h1{
+ font-family: "poppins"; 
+ font-weight: 600;
+ margin-left: 10px;
+ font-size: 20px;
+}
+.jam{
+  width: 260px;
+  height: 40px;
+  margin-bottom: 15px;
+  margin-left: 10px;
+  border-radius: 10px;
+  padding: 7px;
+}
+.jam::placeholder{
+  font-size: 15px;
+  margin-left: 40px;
+  font-family: "poppins";
+}
+h3{ font-family: "poppins"; 
+ font-weight: 500;
+ margin-left: 10px;
+ font-size: 16px;
+}
+.pr{
+  margin-left:10px ;
+  margin-bottom: 15px;
+}
+.buku{
+  margin-left:10px ;
+  margin-bottom: 15px;
+}
+.pensil{
+width: 320px;
+  height: 50px;
+  background-color: #ab496c;
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  font-family: "poppins";
+  border-radius: 10px;
+  margin-left: 10px;
+  border-color: #ab496c;
+  margin-bottom: 14px;
+  box-shadow: 3px 3px 5px gray;
+}
+.pena{
+  width: 320px;
+  height: 50px;
+  background-color: #f0376f;
+  font-size: 20px;
+  color: white;
+  font-weight: 600;
+  font-family: "poppins";
+  border-radius: 10px;
+  margin-left: 10px;
+  border-color: #f0376f;
+  margin-bottom: 14px;
+  box-shadow: 3px 3px 5px gray;
+}
+ 
